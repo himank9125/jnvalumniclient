@@ -1,0 +1,28 @@
+# Node modules
+node_modules/
+
+# Logs
+npm-debug.log
+yarn-debug.log
+yarn-error.log
+
+# Environment files
+.env
+.env.*   # Ignore any env files (e.g., .env.beta, .env.production)
+
+# Dependency directories
+/coverage/
+
+# Build directories
+/dist/
+/build/
+
+# OS files
+.DS_Store       # macOS
+Thumbs.db       # Windows
+
+# Editor-specific files
+.vscode/
+.idea/
+*.swp   # Vim
+*.suo   # Visual Studio
